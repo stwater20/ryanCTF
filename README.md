@@ -13,7 +13,7 @@ If you find an error or need to be corrected, you can submit an issue or pull re
 ---
 These questions will be used in CTF competitions held by me for high school students or beginners, so all questions will be verified and valid.
 
-![1][competition](https://i.imgur.com/iZ6zkVT.png)
+![competition](https://i.imgur.com/iZ6zkVT.png)
 
 ### Question
 ---
